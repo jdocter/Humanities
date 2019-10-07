@@ -25,7 +25,8 @@ Where:
 
 ### Player Commands
 - `"state"` prints the current state of the player, indicating their role (subject or czar) in the current round, or if they are inactive. The will also print the current black card if relevant. 
-- `"hand"` prints the players current hand of white cards
+- `"hand"` prints the players current hand of white cards.
+- `"quit"` exits the game.
 - When prompted, a subject may play a white card by giving the number of the corresponding white card in their hand.
 - When prompted, the czar may choose a white card by giving the number of the corresponding white card of subjects' proposals.
 
